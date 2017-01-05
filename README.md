@@ -1,7 +1,7 @@
 # raspberry_pi_setup
 Raspberry Pi 3 headless setup guidance
 
-## OS Image on SD. NOOBS
+## Headless install using NOOBS image
 0. Insert and unmount SD card
 1. Setup SD card partitions: sudo fdisk /dev/mmcblk0
 2. Delete all partitions (command d)
@@ -27,3 +27,6 @@ Raspberry Pi 3 headless setup guidance
     * ip neighbor list
 14. ssh pi@rpi_ip_addr
 
+## Reference
+http://qdosmsq.dunbar-it.co.uk/blog/2013/06/noobs-for-raspberry-pi/
+https://pihw.wordpress.com/guides/direct-network-connection/
