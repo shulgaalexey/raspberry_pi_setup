@@ -27,6 +27,12 @@ Raspberry Pi 3 headless setup guidance
     * ip neighbor list
 14. ssh pi@rpi_ip_addr
 
+## Scan IPs
+
+sudo nmap -sP 192.168.1.0/24     #Scans 192.168.1.0 255.255.255.0
+
+
+
 ## Reference
  * http://qdosmsq.dunbar-it.co.uk/blog/2013/06/noobs-for-raspberry-pi/
  * https://pihw.wordpress.com/guides/direct-network-connection/
