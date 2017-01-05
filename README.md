@@ -28,5 +28,5 @@ Raspberry Pi 3 headless setup guidance
 14. ssh pi@rpi_ip_addr
 
 ## Reference
-http://qdosmsq.dunbar-it.co.uk/blog/2013/06/noobs-for-raspberry-pi/
-https://pihw.wordpress.com/guides/direct-network-connection/
+ * http://qdosmsq.dunbar-it.co.uk/blog/2013/06/noobs-for-raspberry-pi/
+ * https://pihw.wordpress.com/guides/direct-network-connection/
