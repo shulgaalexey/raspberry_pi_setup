@@ -31,6 +31,8 @@ Raspberry Pi 3 headless setup guidance
 
 sudo nmap -sP 192.168.1.0/24     #Scans 192.168.1.0 255.255.255.0
 
+nmap -p 22 --open -sV 192.168.0.*
+
 
 
 ## Reference
