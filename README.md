@@ -1,6 +1,15 @@
 # raspberry_pi_setup
 Raspberry Pi 3 headless setup guidance
 
+## Enable headless SSH
+For headless setup, SSH can be enabled by placing a file named 'ssh', without any extension, onto the boot partition of the SD card.
+host name  raspberrypi.mshome.net
+port 22
+open
+login pi
+password raspberry
+https://www.youtube.com/watch?v=uyQ0M1D0iBk
+
 ## Headless install using NOOBS image
 0. Insert and unmount SD card
 1. Setup SD card partitions: sudo fdisk /dev/mmcblk0
