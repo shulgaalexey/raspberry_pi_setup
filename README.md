@@ -43,6 +43,7 @@ nmap -p 22 --open -sV 192.168.0.*
 
 ## Win guide
 https://www.youtube.com/watch?v=uyQ0M1D0iBk
+https://www.youtube.com/watch?v=peZUZo_cSMk&t=34s
 
 
 
