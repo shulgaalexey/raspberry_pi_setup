@@ -41,6 +41,10 @@ nmap -p 22 --open -sV 192.168.0.*
 3. Enable SSH with: sudo /etc/init.d/ssh start
 4. Type the password "raspberry" again just in case, since it's a sudo command, and hit Enter.
 
+## Win guide
+https://www.youtube.com/watch?v=uyQ0M1D0iBk
+
+
 
 ## Reference
  * http://qdosmsq.dunbar-it.co.uk/blog/2013/06/noobs-for-raspberry-pi/
