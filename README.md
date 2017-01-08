@@ -34,6 +34,13 @@ sudo nmap -sP 192.168.1.0/24     #Scans 192.168.1.0 255.255.255.0
 nmap -p 22 --open -sV 192.168.0.*
 
 
+## Imaginary display
+
+1. Plug in the keyboard and boot the RPi
+2. Wait a minute, then type "pi", hit Enter, then "raspberry", and hit enter.
+3. Enable SSH with: sudo /etc/init.d/ssh start
+4. Type the password "raspberry" again just in case, since it's a sudo command, and hit Enter.
+
 
 ## Reference
  * http://qdosmsq.dunbar-it.co.uk/blog/2013/06/noobs-for-raspberry-pi/
