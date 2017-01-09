@@ -41,6 +41,10 @@ https://www.youtube.com/watch?v=uyQ0M1D0iBk
 http://www.makeuseof.com/tag/run-remote-desktop-raspberry-pi-vnc/
 http://mitchtech.net/vnc-setup-on-raspberry-pi-from-ubuntu/
 
+## Temperature of CPU and GPU
+
+https://www.cyberciti.biz/faq/linux-find-out-raspberry-pi-gpu-and-arm-cpu-temperature-command/
+
 
 ## Scan IPs
 
