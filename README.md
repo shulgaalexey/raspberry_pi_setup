@@ -36,6 +36,12 @@ https://www.youtube.com/watch?v=uyQ0M1D0iBk
     * ip neighbor list
 14. ssh pi@rpi_ip_addr
 
+## Remote GUI VNC
+
+http://www.makeuseof.com/tag/run-remote-desktop-raspberry-pi-vnc/
+http://mitchtech.net/vnc-setup-on-raspberry-pi-from-ubuntu/
+
+
 ## Scan IPs
 
 sudo nmap -sP 192.168.1.0/24     #Scans 192.168.1.0 255.255.255.0
