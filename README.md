@@ -41,6 +41,9 @@ https://www.youtube.com/watch?v=uyQ0M1D0iBk
 http://www.makeuseof.com/tag/run-remote-desktop-raspberry-pi-vnc/
 http://mitchtech.net/vnc-setup-on-raspberry-pi-from-ubuntu/
 
+vncserver :1 -geometry 1280x960 -depth 16 -pixelformat rgb565
+vncviewer 10.42.0.135:5901
+
 ## Temperature of CPU and GPU
 
 https://www.cyberciti.biz/faq/linux-find-out-raspberry-pi-gpu-and-arm-cpu-temperature-command/
