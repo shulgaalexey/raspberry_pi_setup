@@ -40,6 +40,17 @@ User id/passwd : root / tizen
 ```
 
 
-## Reference
+Information of connecting to UART
+---------------------------------
+
+In case of PL2303,
+TXD0(08pin) → UART Board RXD
+RXD0(10pin) → UART Board TXD
+Ground(06pint) → UART Board GND
+Set Jumper switch to 3.3V.
+
+
+Reference
+---------
  * https://github.com/Samsung/iotjs/blob/master/docs/build/Build-for-RPi3-Tizen.md
  * https://wiki.tizen.org/Raspberry_Pi#Debugging
