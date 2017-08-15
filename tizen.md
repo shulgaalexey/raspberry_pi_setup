@@ -10,7 +10,7 @@ $ wget https://git.tizen.org/cgit/platform/kernel/linux-rpi3/plain/scripts/sd_fu
 ```
 
 
-Remote terminal wia Serial port
+Remote terminal via Serial port
 -------------------------------
 
 ```
