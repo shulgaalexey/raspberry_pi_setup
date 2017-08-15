@@ -7,4 +7,5 @@ Raspberry Pi 3 Headless Setup
 
 ## Reference
 
+- https://wiki.tizen.org/Raspberry_Pi#Debugging
 - https://developer.microsoft.com/en-us/windows/iot/docs/iotdashboard
