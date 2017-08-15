@@ -3,6 +3,12 @@ Raspberry PI 3 headless setup on Tizen
 
 Source: https://github.com/Samsung/iotjs/blob/master/docs/build/Build-for-RPi3-Tizen.md
 
+If doownloading of sd fusing script doesn't work, try this link:
+
+```
+$ wget https://git.tizen.org/cgit/platform/kernel/linux-rpi3/plain/scripts/sd_fusing_rpi3.sh?h=submit/tizen/20170725.223437 --output-document=sd_fusing_rpi3.sh
+```
+
 
 Remote terminal wia Serial port
 -------------------------------
