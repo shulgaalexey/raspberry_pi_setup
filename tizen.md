@@ -44,14 +44,12 @@ Information of connecting to UART
 ---------------------------------
 
 In case of PL2303:
-
+```
 TXD0(08pin) → UART Board RXD
-
 RXD0(10pin) → UART Board TXD
-
 Ground(06pint) → UART Board GND
-
 Set Jumper switch to 3.3V.
+```
 
 
 Reference
