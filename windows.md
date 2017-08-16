@@ -28,6 +28,11 @@ sudo apt-get install gparted
 ```
 
 
+## for NOOBS
+
+https://developer.microsoft.com/en-us/windows/iot/Docs/GetStarted/noobs/GetStartedStep1.htm
+
+
 Reference
 ---------
 
