@@ -9,6 +9,14 @@ If doownloading of sd fusing script doesn't work, try this link:
 $ wget https://git.tizen.org/cgit/platform/kernel/linux-rpi3/plain/scripts/sd_fusing_rpi3.sh?h=submit/tizen/20170725.223437 --output-document=sd_fusing_rpi3.sh
 ```
 
+### Boot & Kernel
+
+http://download.tizen.org/snapshots/tizen/unified/latest/images/standard/iot-boot-arm64-rpi3/
+
+### Platform
+
+http://download.tizen.org/snapshots/tizen/unified/latest/images/standard/iot-headless-2parts-armv7l-rpi3/
+
 
 Remote terminal via Serial port
 -------------------------------
