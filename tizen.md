@@ -40,6 +40,8 @@ sudo minicom
 Setup IP
 --------
 
+### On RPi3
+
 ```
 User id/passwd : root / tizen
 (target)$ ifconfig eth0 down
@@ -47,6 +49,19 @@ User id/passwd : root / tizen
 (target)$ route add default gw 192.168.1.1
 ```
 
+### On Host PC
+
+```
+(host)$ sudo ifconfig eth1 down
+(host)$ sudo ifconfig eth1 192.168.1.1 netmask 255.255.255.0 up
+```
+
+### SDB
+
+```
+sdb connect 192.168.1.11
+sdb shell
+```
 
 Information of connecting to UART
 ---------------------------------
